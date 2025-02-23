@@ -1,0 +1,85 @@
+# 📌 Archivos y carpetas de Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+*.pyo
+
+# 📦 Entornos virtuales
+venv/
+.env/
+.venv/
+env/
+env.bak/
+venvr/
+pip-wheel-metadata/
+
+# 🔍 Archivos de logs y depuración
+logs/
+*.log
+debug.log
+nohup.out
+
+# 🛠️ Configuración de IDEs y editores
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.swp
+
+# 🛑 Archivos de dependencias y caché de paquetes
+pip-log.txt
+pip-delete-this-directory.txt
+poetry.lock
+poetry_cache/
+__pypackages__/
+pyproject.toml.lock
+
+# 📂 Archivos de configuración del sistema operativo
+.DS_Store
+Thumbs.db
+
+# 🔑 Variables de entorno y credenciales
+.env
+*.env
+*.key
+*.pem
+
+# 📋 Archivos de bases de datos y caché de SQLite
+*.sqlite3
+*.db
+
+# 🚀 Archivos compilados de Cython o MyPy
+cython_debug/
+
+# 🏗️ Directorios de build, dist y empaquetado
+build/
+dist/
+*.spec
+
+# 🔬 Cobertura de pruebas y reportes de cobertura
+htmlcov/
+.coverage
+*.cover
+coverage.xml
+nosetests.xml
+pytest_cache/
+.pytest_cache/
+
+# 📜 Documentación generada automáticamente
+docs/_build/
+site/
+
+# 🔍 Perfiles y análisis de rendimiento
+*.prof
+*.lprof
+*.cprof
+
+# 📌 Archivos y carpetas de PyInstaller
+*.exe
+*.app
+*.manifest
+*.spec
+
+# 📄 Archivos de lock de desarrollo
+Pipfile.lock
