@@ -168,7 +168,7 @@ class MainWindow(QMainWindow):
 
     def show_about_dialog(self):
         QMessageBox.about(self, "About",
-                          "Esta es una aplicación de ejemplo con PySide6.\nEstilo VSCode.")
+                          "Desarrollado con amor ❤️ por DeiCode | shgcifrado@gmail.com.\nEstilo VSCode.")
         
 
 

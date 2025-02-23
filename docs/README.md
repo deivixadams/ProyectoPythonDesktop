@@ -1,7 +1,7 @@
-# 📌 ProyectoPythonDesktop
+📌 ProyectoPythonDesktop
+Aplicación de escritorio en Python con PySide6, diseñada para ofrecer una estructura modular, escalable y alineada con las mejores prácticas del desarrollo de software.
 
-> **Aplicación de escritorio en Python con PySide6, diseñada para ofrecer una estructura modular, escalable y alineada con las mejores prácticas del desarrollo de software.**
-
+📌 Desarrollado por ⭐ Dei-Code **(shgcifrado@gmail.com)** con el objetivo de mostrar a los estudiantes de los países de América Latina cómo pueden usar la Inteligencia Artificial para desarrollarse como programadores. 🚀
 ---
 
 ## 🚀 **Características Principales**
@@ -11,10 +11,8 @@
 ✅ Código documentado y estructurado con estándares profesionales.  
 ✅ Uso de `QTimer` para animaciones y `QStatusBar` con mensajes interactivos.  
 
----
 
-## 📂 **Estructura del Proyecto**
-```plaintext
+
 📦 ProyectoPythonDesktop
  ┣ 📂 src/                 # Código fuente principal
  ┃ ┣ 📂 modules/           # Módulos adicionales
@@ -29,29 +27,39 @@
  ┣ 📂 tools/               # Scripts auxiliares
  ┣ 📜 .gitignore           # Archivos ignorados por Git
  ┣ 📜 .env                 # Variables de entorno (credenciales, API keys)
- ┣ 📜 pyproject.toml       # Configuración moderna del proyecto
- ┣ 📜 requirements.txt     # Lista de dependencias
+ ┣ 📜 requirements.txt     # Lista de dependencias para instalación con pip
  ┣ 📜 LICENSE              # Licencia del proyecto
  ┣ 📜 CONTRIBUTING.md      # Guía para contribuir
  ┣ 📜 CHANGELOG.md         # Registro de cambios
  ┗ 📜 estructura.md        # Explicación de la estructura del proyecto
 
-
-
-## 📜 ** Licencia **
-Este proyecto está bajo la licencia Apache 2.0. Consulta el archivo LICENSE para más información.
-## 📂 **Estructura del Proyecto**
 ---
 
-## 🤝 Contribuir
+## 📜 **Licencia**
+Este proyecto está bajo la licencia **Apache 2.0**. Consulta el archivo `LICENSE` para más información.
+
+---
+
+## 🤝 **Contribuir**
 Si deseas contribuir:
-1. Fork al repositorio.
-2. Crea una rama nueva (`git checkout -b mi-feature`).
-3. Realiza cambios y haz un commit (`git commit -m "Añadir nueva funcionalidad"`).
-4. Haz un push a tu fork (`git push origin mi-feature`).
-5. Crea un Pull Request 🚀.
+1️⃣ Fork al repositorio.  
+2️⃣ Crea una rama nueva (`git checkout -b mi-feature`).  
+3️⃣ Realiza cambios y haz un commit (`git commit -m "Añadir nueva funcionalidad"`).  
+4️⃣ Haz un push a tu fork (`git push origin mi-feature`).  
+5️⃣ Crea un **Pull Request** 🚀.  
 
+---
 
-## 🎯 ¡Gracias por usar ProyectoPythonDesktop!
-Si te gustó este proyecto, dale una estrella ⭐ en GitHub y comparte. 🚀
+## 🎯 **¡Gracias por usar ProyectoPythonDesktop!**  
+Si te gustó este proyecto, **dale una estrella** en GitHub y comparte. 🚀  
+
+---
+
+### ✅ **Pasos para Actualizar el README en el Repositorio Remoto**
+1️⃣ Abre **PowerShell** o **Git Bash** en la carpeta del proyecto.  
+2️⃣ Asegúrate de que el archivo `README.md` está actualizado.  
+3️⃣ Verifica los cambios:
+   ```powershell
+   git status
+
 
